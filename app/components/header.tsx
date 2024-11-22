@@ -10,7 +10,7 @@ export default function Header() {
             <li><a href="#portfolio" className="hover:underline">Portfolio</a></li>
             <li><a href="#skills" className="hover:underline">Skills</a></li>
             <li><a href="#clients" className="hover:underline">Clients</a></li>
-            <li><a href="#contact" className="hover:underline">Contact</a></li>
+            <li><a href="#contact" className="hover:underline">Contacts</a></li>
           </ul>
         </nav>
       </header>
